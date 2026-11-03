@@ -15,5 +15,8 @@
   <remote name="los-tv-x86"
           fetch="https://github.com/los-tv-x86"
           revision="lineage-23.2" />
+  <remote name="ilya84"
+          fetch="https://github.com/ilya84"
+          revision="lineage-23.2" />
 
 </manifest>
